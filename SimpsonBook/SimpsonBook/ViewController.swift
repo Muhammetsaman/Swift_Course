@@ -2,7 +2,11 @@
 //  ViewController.swift
 //  SimpsonBook
 //
+<<<<<<< HEAD
 //  Created by Muhammet on 5.06.2024.
+=======
+//Created by Muhammet on 5.06.2024.
+>>>>>>> 140ad1568f1c0a6fb292e8233b610a00872afa6b
 //
 
 import UIKit
